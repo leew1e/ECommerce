@@ -33,5 +33,4 @@ services:
       - "6004:8080"
 
 networks:
-  default:
-    name: "net1"
+  net1:
